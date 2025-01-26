@@ -1,2 +1,2 @@
 # JavaScripts
-codes for javascripts
+codes for javascripts projects
